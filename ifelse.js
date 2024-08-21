@@ -1,23 +1,23 @@
-// if (hour < 18) {
-//     greeting = "Good day";
-//   } else {
-//     greeting = "Good evening";
-//   }
+if (hour < 18) {
+    greeting = "Good day";
+  } else {
+    greeting = "Good evening";
+  }
 
 
 // example 1
-// if (Grade < B) {
-//     remarks = "Welldone!";
-//   } else {
-//     remarks = "Work hard";
-//   }
+if (Grade < B) {
+    remarks = "Welldone!";
+  } else {
+    remarks = "Work hard";
+  }
 
 // example 2
-// if (Marks > 50) {
-//     Grade = "A+";
-//   } else {
-//     Grade = "B";
-//   }
+if (Marks > 50) {
+    Grade = "A+";
+  } else {
+    Grade = "B";
+  }
 
 // example 3
 
@@ -40,11 +40,3 @@ if (temperature > 25){
 }else{
     print("It's a cold day.")
 }
-
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/duuaaa03/javascript.git
-// git push -u origin main
